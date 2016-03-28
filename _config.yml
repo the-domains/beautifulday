@@ -1,0 +1,28 @@
+name: BeautifulDay
+favicon: null
+layout_spectrum: 0.43368731532245874
+typography_spectrum: 0.45868605002760887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10527369286864996
+  lightness: 0.151256721932441
+  saturation: 0.9784256401471794
+  rhythmicContrast: 0.02761982800439
+purpose: []
